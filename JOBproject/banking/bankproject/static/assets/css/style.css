@@ -1,0 +1,13 @@
+.container .accnt{
+max-width:700px;
+width:100%;
+
+padding: 25px 30px;
+border-radius:5px;
+
+}
+.container.accnt.title{
+font-size:30px;
+font-weight:500;
+position: relative;
+}
